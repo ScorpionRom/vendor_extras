@@ -39,7 +39,7 @@ from xml.etree import ElementTree
 # Default properties
 DEFAULT_REMOTE = 'github'
 DEFAULT_ORG = 'ScorpionRom-Devices'
-DEFAULT_BRANCH = 'sr4'
+DEFAULT_BRANCH = 'sr5'
 ALTERNATE_REMOTE = 'gerrit'
 # Dependency file name
 DEPENDENCY_FILE = 'scorpion.dependencies'
